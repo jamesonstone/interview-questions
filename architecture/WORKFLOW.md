@@ -2,8 +2,6 @@
 
 We're moving into the future with an entirely automated ice cream shop! Our all robot workforce makes ordering ice cream a breeze!
 
-And just so this question doesn't feel like a nebulous, random question, a comparable system would be a lab or publishing
-
 ## Overview
 
 ![ICE_CREAM](./../diagrams/ICE_CREAM.drawio)
@@ -32,3 +30,7 @@ Ice cream was great but our profit margins were too low. Let's pivot to pizzas?
 - How would you retool our existing architecture to work for pizzas?
   - What Services do we still need?
   - What Services can we get rid of?
+
+## Why This Question
+
+A comparable system would be a lab or publishing flowing; where we'd need to have interchangeable components that could easily be swapped in a Direct Acyclic Graph or ["DAG"](https://en.wikipedia.org/wiki/Directed_acyclic_graph) or even a tree.
