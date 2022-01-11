@@ -22,6 +22,7 @@ We're moving into the future with an entirely automated ice cream shop! Our all 
 - http/rpc or some other communication methodology
 - What Services are necessary? Which are not?
 - Service Orchestration, Choreography?
+- How do you deal with an ice cream failure?
 
 ## Pivot
 
